@@ -1,6 +1,9 @@
 # logo
 >Only used for colorfulshadowty
 ***
+第四次提交：</br>
+增加logo3.png：无框透明线条飞机
+***
 第三次提交：</br>
 修改部分图像，添加两个psd文件</br>
 LOGO.png：实心透明飞机
